@@ -1,8 +1,8 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/168010524/original/33f7f127c3b24ebdf350ccea5dbc2cfb3d3c9a4a/custom-full-stack-web-developer-front-end-back-end-website-development.png)](https://rishavchanda.io)
+[![MasterHead]https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Usama Nayab</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama-nayab" alt="usama-nayab" /></a> </p>
 
