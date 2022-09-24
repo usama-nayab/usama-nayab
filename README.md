@@ -1,4 +1,3 @@
-[![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)](https://usama-nayab.io)
 <h1 align="center">Hi 👋, I'm Usama Nayab</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
