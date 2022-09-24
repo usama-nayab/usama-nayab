@@ -4,6 +4,7 @@
 
 <img align="right" style="border-radius:10px; margin:1em 0em;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" />
 
+<br><br>
 
 - 🌱 I’m currently learning **Front-End using ReactJs.**
 
@@ -12,12 +13,9 @@
 - 📫 How to reach me **usamanayab169@gmail.com**
 
 - ⚡ Fun fact **I Prefer a short nap to solve coding error.😄**
-
-<br>
-
+- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama-nayab" alt="usama-nayab" /></a> </p>
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
