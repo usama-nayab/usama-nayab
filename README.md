@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Usama Nayab</h1>
 <h2 align="center">A passionate frontend developer from Pakistan.</h2>
 
-<img align="right" alt="Coding" width="490" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="450" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **Front-End using ReactJs.**
+- <h3>🌱 I’m currently learning **Front-End using ReactJs.** </h3>
 
-- 💬 Ask me about **Front-End Development**
-<ul> <li>HTML</li> </ul>
-<ul> <li>CSS</li> </ul>
-<ul> <li>JS</li> </ul>
-<ul> <li>BOOTSTRAP</li> </ul>
-<ul> <li>TAILWIND</li> </ul>
-<ul> <li>REACTJs</li> </ul>
-<ul> <li>Responsive layouts</li> </ul>
-<ul> <li>Websites UX</li> </ul>
+- <h3>💬 Ask me about **Front-End Development** </h3>
+<ul> 
+  <li> <h3> HTML </h3> </li>
+  <li> <h3> CSS </h3> </li>
+  <li> <h3> JS </h3> </li>
+  <li> <h3> BOOTSTRAP </h3> </li> 
+  <li> <h3> TAILWIND </h3> </li>
+  <li> <h3> REACTJs </h3> </li> 
+  <li> <h3> Responsive layouts </h3> </li>
+  <li> <h3> Websites UX </h3> </li> 
+</ul>
 
-- 📫 How to reach me **usamanayab169@gmail.com**
+- <h3> 📫 How to reach me **usamanayab169@gmail.com** </h3>
 
-- ⚡ Fun fact **I Prefer a short nap to solve coding error.😄**
+- <h3> ⚡ Fun fact **I Prefer a short nap to solve coding error.😄** </h3>
 
 
 <h3 align="left">Connect with me:</h3>
