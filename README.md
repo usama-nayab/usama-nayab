@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Usama Nayab</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="490" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 I’m currently learning **Front-End using ReactJs.**
 
-- 💬 Ask me about **Front-End Development(HTML,CSS,JS,BOOTSTRAP,TAILWIND,REACTJs), Responsive layouts, Websites UX.**
+- 💬 Ask me about **Front-End Development**
+<ul> <li>HTML</li> </ul>
+<ul> <li>CSSL</li> </ul>
+<ul> <li>JS</li> </ul>
+<ul> <li>BOOTSTRAP</li> </ul>
+<ul> <li>TAILWIND</li> </ul>
+<ul> <li>REACTJs</li> </ul>
+<ul> <li>Responsive layouts</li> </ul>
+<ul> <li>Websites UX</li> </ul>
 
 - 📫 How to reach me **usamanayab169@gmail.com**
 
