@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I Prefer a short nap to solve coding error.😄**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama-nayab" alt="usama-nayab" /></a> </p>
+<div style="margin:1em 0em;" >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama-nayab" alt="usama-nayab" /></a> </p> </div>
 
 
 <h3 align="left">Connect with me:</h3>
