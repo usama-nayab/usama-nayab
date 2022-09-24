@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Nayab</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*OjnZjw20cnBWVs4E_a3u4A.png" />
+<img align="right" alt="Coding" width="400" src="https://resources.reed.co.uk/courses/coursemedia/341914/f5f80921-153d-4b96-81ea-7ac2d356354a_cover.jpg" />
 
 - 🌱 I’m currently learning **Front-End using ReactJs.**
 
@@ -10,7 +10,6 @@
 - 📫 How to reach me **usamanayab169@gmail.com**
 
 - ⚡ Fun fact **I Prefer a short nap to solve coding error.😄**
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama-nayab" alt="usama-nayab" /></a> </p>
 
