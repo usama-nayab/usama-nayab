@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End Development**
 <ul> <li>HTML</li> </ul>
-<ul> <li>CSSL</li> </ul>
+<ul> <li>CSS</li> </ul>
 <ul> <li>JS</li> </ul>
 <ul> <li>BOOTSTRAP</li> </ul>
 <ul> <li>TAILWIND</li> </ul>
