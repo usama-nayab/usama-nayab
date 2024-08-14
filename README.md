@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="450" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- <h3>🌱 I’m currently working as  **Front-End Engineer** at Tecnologia Solutions LLC </h3>
+- <h3>🌱 I’m currently working as Front-End Engineer at Tecnologia Solutions LLC </h3>
 
-- <h3>💬 Ask me about **Front-End Development** </h3>
+- <h3>💬 Ask me about Front-End Development </h3>
 <ul> 
   <li> <h3> HTML </h3> </li>
   <li> <h3> CSS </h3> </li>
